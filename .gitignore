@@ -18,6 +18,8 @@ lib/
 
 node_modules/
 
+bin/
+
 
 # Mac OS files
 .DS_Store
