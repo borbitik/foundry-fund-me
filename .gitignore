@@ -15,3 +15,15 @@ docs/
 
 broadcast/
 lib/
+
+node_modules/
+
+
+# Mac OS files
+.DS_Store
+
+# Large files
+*.mp4
+*.mov
+*.zip
+*.tar.gz
